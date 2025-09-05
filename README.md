@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I’m Rudransh Tanwar  
 
-<!--
-**rudranshstanwar/rudranshstanwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student | 💻 Learning Python | 🤖 Interested in AI/ML  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+- 🌱 Currently doing **100 Days of Python**  
+- 📚 Exploring AI/ML as I improve my Python skills  
+- ⚡ Beginner who enjoys learning step by step  
+
+---
+
+## 🛠️ Skills (Learning Stage)  
+- **Languages:** Python (beginner, daily practice)  
+- **Learning Next:** Data libraries like NumPy, Pandas, Matplotlib  
+- **Tools I use:** Git, GitHub, PyCharm Professional, Jupyter  
+
+---
+
+## 📂 Current Work  
+🚀 **100 Days of Python** – Daily coding challenges and small projects  
+
+---
+
+## 🌐 Connect With Me  
+- [LinkedIn](https://www.linkedin.com/in/rudransh-tanwar-7596aa369/)  
+- [GitHub Profile](https://github.com/rudranshtanwar)  
+
+---
+
+⭐ From [rudranshtanwar](https://github.com/rudranshtanwar)
+
