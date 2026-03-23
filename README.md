@@ -25,9 +25,9 @@
 
 ## 🌐 Connect With Me  
 - [LinkedIn](https://www.linkedin.com/in/rudransh-tanwar-7596aa369/)  
-- [GitHub Profile](https://github.com/rudranshtanwar)  
+- [GitHub Profile](https://github.com/rudranshstanwar)  
 
 ---
 
-⭐ From [rudranshtanwar](https://github.com/rudranshtanwar)
+⭐ From [rudranshtanwar](https://github.com/rudranshstanwar)
 
